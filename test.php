@@ -4,3 +4,4 @@
 $num = 1234;
 echo $num;
 print_r($num);
+echo 'test';
